@@ -51,7 +51,7 @@
     let reactionTimer = -1;
     
 	let cheatMode = true;
-    let cheatSuccessRate = 0.3;
+    let cheatSuccessRate = 0.7;
 	let currentCaptchaCheatActive = false;
 	
 function autoCorrectInput(inputValue) {
